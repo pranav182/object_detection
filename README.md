@@ -227,7 +227,7 @@ We would do this filtering using the below steps.
     - ROI is Region of Interest in the actual picture. Let's color all of the pixels in the ROI
     - The color of ROI is made into a blend of its actual colors and color allocated to classID. Finally, everything is printed.
     
-![image.png](attachment:image.png)
+![image.png](https://github.com/pranav182/object_detection/blob/main/filtering.png)
 
 ### Filtering and Visualizing the Detections
 Now that we have got an idea about mask processing from the previous slide, let us take a closer look at the code by understanding each small snippet:

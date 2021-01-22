@@ -132,7 +132,7 @@ plt.imshow(fixColor(img))
 
 
 
-![png](output_19_1.png)
+![png](https://github.com/pranav182/object_detection/blob/main/output_19_1.png)
 
 
 
@@ -356,7 +356,7 @@ for i in range(0, boxes.shape[2]): #For each detection
 ```
 
 
-![png](output_33_0.png)
+![png](https://github.com/pranav182/object_detection/blob/main/output_33_0.png)
 
 
     Shape of individual mask (15, 15)
@@ -367,7 +367,7 @@ for i in range(0, boxes.shape[2]): #For each detection
 
 
 
-![png](output_33_2.png)
+![png](https://github.com/pranav182/object_detection/blob/main/output_33_2.png)
 
 
     Shape of individual mask (15, 15)
@@ -378,7 +378,7 @@ for i in range(0, boxes.shape[2]): #For each detection
 
 
 
-![png](output_33_4.png)
+![png](https://github.com/pranav182/object_detection/blob/main/output_33_4.png)
 
 
     Shape of individual mask (15, 15)
@@ -403,5 +403,5 @@ plt.imshow(fixColor(img))
 
 
 
-![png](output_35_1.png)
+![png](https://github.com/pranav182/object_detection/blob/main/output_35_1.png)
 
